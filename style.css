@@ -1,0 +1,43 @@
+.cv{
+    width: 800px;/*lageur de la page cv*/
+    margin: auto;/*pour centre les elements de la page*/
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;/*la police*/ 
+    text-align: justify;/*pour justifier le texte*/
+}
+img{
+    margin: 18pt;/*pour donner une petite magere a l'image sur la gauche*/
+}
+.contact{
+    float: left;/*pour decaler les elements de la div contact vers la gauche*/
+    background-color: #005c96;/*pour mettre le fond en bleue*/
+    font-size: 15px;/*la taille de la police de ce bloc*/
+    color: white;/*la couleur de la police dans ce bloc*/
+}
+p{
+    margin: 20px;/*la marge pour toutes les paragraphes p*/
+}
+h3{
+    margin: 10px;/*marge des polices h3*/
+    font-size: 17px;/*taille de la police h3*/
+}
+.formation{
+    background-color: white;/*pour la couleur de fond du bloc droit*/
+    margin-left: 280px;/*pour realiser la marge du bloc droit*/
+    font-size: 17px; /*taille de la police*/
+}
+h1{
+    font-size: 40px;/*Taille de la police h1*/
+}
+h2{
+    margin-right: 10px;/*marge des polices h2*/
+    font-size: 15px;/*taille des polices h2*/
+}
+@media screen and (min-width:1024px){
+    
+}
+@media screen and (min-width:768px) and (max-width:1023px){
+    
+}
+@media screen and (max-width:767px){
+    
+}
